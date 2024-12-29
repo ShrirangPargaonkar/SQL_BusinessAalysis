@@ -51,7 +51,6 @@ SELECT* FROM coffee_inventory;
 INSERT INTO `coffee_inventory` (`coffee_name`, `quantity`, `price`, `supplier`, `expiration_date`) VALUES
 ('Mocha', 40, 3.75, 'Indian Coffee House', '2024-12-15');
 
--- Create: Add a new employee
 INSERT INTO `employee` (`employee_name`, `role`, `contact_info`, `hire_date`) VALUES
 ('Sneha Iyer', 'Barista', 'sneha.iyer@example.com', '2024-01-10');
 
