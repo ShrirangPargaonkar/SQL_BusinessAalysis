@@ -1,1 +1,1 @@
-# SQL_BusinessAalysis
+# SQL_BusinessAnalysis
